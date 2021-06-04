@@ -6,7 +6,7 @@ public class Strings {
 
     var nome = "André";
     var sobreNome = "Gomes";
-    final var nomeCompleto = nome + sobreNome;
+    final var nomeCompleto = nome + sobreNome; //
 
     System.out.println(nome);
     System.out.println("Nome do cliente : " + nome);
